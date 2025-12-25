@@ -124,3 +124,24 @@ Claude Code is provided by Anthropic. See the [official repository](https://gith
 **Last Updated**: December 24, 2025
 **Claude Code Version**: 2.0.76
 **macOS Version**: Monterey 12.7.6
+
+## Multi-Platform Support
+
+This repository documents Claude Code compatibility across various platforms:
+
+### Confirmed Working Platforms
+
+- **macOS Monterey 12.7.6** (Intel x86_64) - Documented here
+- **IBM POWER8** (Ubuntu) - See related repositories
+
+### Architecture Support
+
+Claude Code official builds support:
+- x86_64 (Intel/AMD)
+- ARM64 (Apple Silicon, ARM servers)
+
+For other architectures (like POWER8), custom builds or compatibility layers may be required.
+
+---
+
+**Multi-platform testing and documentation by the community**
