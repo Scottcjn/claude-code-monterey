@@ -145,3 +145,12 @@ For other architectures (like POWER8), custom builds or compatibility layers may
 ---
 
 **Multi-platform testing and documentation by the community**
+
+
+## 中文简介
+
+Claude Code Monterey - Elyan Labs 项目
+
+为中文用户提供中文文档支持。
+
+Contributed by eelaine-wzw
