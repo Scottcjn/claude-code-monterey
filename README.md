@@ -112,7 +112,7 @@ Claude Code has auto-updates enabled by default. Check `~/.claude.json` to verif
 
 ## License
 
-Claude Code is provided by Anthropic. See the [official repository](https://github.com/anthropics/claude-code) for license information.
+This repository's guide and supporting files are licensed under the [Apache License 2.0](LICENSE). Claude Code is provided by Anthropic; see the [official repository](https://github.com/anthropics/claude-code) for Claude Code license information.
 
 ## Links
 
